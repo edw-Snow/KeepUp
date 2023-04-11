@@ -8,11 +8,12 @@ public class test {
         System.out.println(function.sub(22,11));
         System.out.println("dsadsadasdasdadasddasdadasd" +
                 "dsadadsadsad" +
-                "sdasdsadas" +
+                "sdasdsadasd" +
                 "dasdasdda" +
                 "dad");
         int da=2;
         System.out.println(da);
+        System.out.println("das");
 
     }
 }
