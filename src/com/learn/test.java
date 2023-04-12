@@ -12,6 +12,7 @@ public class test {
                 "dasdasdda" +
                 "dad");
         System.out.println("master test");
+        System.out.println("hot-fix test");
     }
 }
 
