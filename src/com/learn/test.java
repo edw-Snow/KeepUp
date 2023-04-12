@@ -11,6 +11,7 @@ public class test {
                 "sdasdsadasd" +
                 "dasdasdda" +
                 "dad");
+        System.out.println("hot-fix test");
     }
 }
 
